@@ -1,1 +1,0 @@
-# GaussianCurvature.github.io
